@@ -1,0 +1,22 @@
+Create a small user registration application  with Spring Boot 
+
+    i) User registration From ( User Name / First Name / Last Name / email Id ) - bootstrap
+   ii) Username - unique validation API call 
+  iii) Save the user details  JPA repository
+   iv) display The user detail in a List
+    v) Search a user by username Repository call  and display result
+    
+    
+    Employee Management
+Emplyee Registration Form
+i) Save Record in to Database Username - unique validation (MySQL)
+Employee List
+ii) Display Saved  Employee details in a List
+Search By Emp Id
+iv) Search Employee by Employee Id 
+Service Layer 
+Spring Boot(Controller/Service/Repository)
+
+API services ( saveEmployee/getEmployees/getEmployeeById)
+DataBase
+MYSQL(ORM- Hibernate )
